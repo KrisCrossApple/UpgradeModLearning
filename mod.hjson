@@ -1,14 +1,14 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Kris's Upgrade Mod"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "kris-upgrade-mod"
 
 #your name
-author: "You"
+author: "Kris"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "kris.UpgradeModMain"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
